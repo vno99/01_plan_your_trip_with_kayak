@@ -27,6 +27,7 @@ L'équipe marketing veut développer une application capable de recommander les 
 ## Structure du projet
 
 * ```data/```: Données exportées
+* ```images/```: Images utilisées dans les notebooks
 * ```notebook/```: Notebooks Jypiter
 * ```scrap_booking/```: Moteur Scrapy pour récupérer les données hôtelières
 
