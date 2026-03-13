@@ -52,4 +52,4 @@ PORT=5432
 ```
 
 ## GitHub
-https://github.com/vno99/01_plan_your_trip_with_kayak
+https://github.com/vno99/03_conversion_rate_challenge
